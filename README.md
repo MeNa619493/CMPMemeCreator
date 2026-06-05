@@ -51,7 +51,7 @@ User Interaction (Intent)
 ## 📂 Project Structure
 
 ```
-CMP\_MemeCreator/
+CMP\\\_MemeCreator/
 ├── composeApp/               # Shared KMP module (90%+ of the codebase)
 │   └── src/
 │       ├── commonMain/       # Shared UI, ViewModels, business logic
@@ -64,9 +64,5 @@ CMP\_MemeCreator/
 
 ## 📸 Screenshots
 
-!\[homescreen](https://github.com/user-attachments/assets/6ffd9097-7e8b-4487-84e3-23fc064f674f)
-!\[screenshow](https://github.com/user-attachments/assets/c065767f-32e0-4239-932a-3febe1e0818a)
-!\[position text](https://github.com/user-attachments/assets/7bea3b7c-edfd-48b5-89ea-82b9d67a7bcd)
-!\[expand and contract ](https://github.com/user-attachments/assets/3ae99172-e112-4aaf-a964-d68e654c2b9c)
-!\[screenshow](https://github.com/user-attachments/assets/bcac9118-4406-415e-8ba1-88b5b8931e34)
+!\[homescreen](https://github.com/user-attachments/assets/6ffd9097-7e8b-4487-84e3-23fc064f674f)!\[screenshow](https://github.com/user-attachments/assets/c065767f-32e0-4239-932a-3febe1e0818a)!\[position text](https://github.com/user-attachments/assets/7bea3b7c-edfd-48b5-89ea-82b9d67a7bcd)!\[expand and contract ](https://github.com/user-attachments/assets/3ae99172-e112-4aaf-a964-d68e654c2b9c)!\[screenshow](https://github.com/user-attachments/assets/bcac9118-4406-415e-8ba1-88b5b8931e34)
 
