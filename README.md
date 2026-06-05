@@ -56,7 +56,7 @@ CMP\\\_MemeCreator/
 
 ## 📸 Screenshots
 
-!\[](https://raw.githubusercontent.com/MeNa619493/CMPMemeCreator/refs/heads/master/561204491-bcac9118-4406-415e-8ba1-88b5b8931e34.gif)
+!\[]([https://raw.githubusercontent.com/MeNa619493/CMPMemeCreator/refs/heads/master/561204491-bcac9118-4406-415e-8ba1-88b5b8931e34.gif](https://github.com/user-attachments/assets/b5b465a5-6cf3-4e5a-95e8-ff099bc67b64))
 
-!\[](https://raw.githubusercontent.com/MeNa619493/CMPMemeCreator/refs/heads/master/561206678-3ae99172-e112-4aaf-a964-d68e654c2b9c.gif)
+!\[]([https://raw.githubusercontent.com/MeNa619493/CMPMemeCreator/refs/heads/master/561206678-3ae99172-e112-4aaf-a964-d68e654c2b9c.gif](https://github.com/user-attachments/assets/d5b295b3-0913-4833-9589-000ab29fb25a))
 
