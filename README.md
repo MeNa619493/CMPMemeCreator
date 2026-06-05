@@ -100,7 +100,7 @@ Or use Android Studio: open the project root, select the **composeApp** run conf
 
 ## Run on iOS
 
-1. Optional: set your Apple team for signing. Edit `iosApp/Configuration/Config.xcconfig` and set `TEAM\_ID` to your team suffix (or configure signing in Xcode). Simulators often work without a paid team; devices need a valid team.
+1. Optional: set your Apple team for signing. Edit `iosApp/Configuration/Config.xcconfig` and set `TEAM\\\_ID` to your team suffix (or configure signing in Xcode). Simulators often work without a paid team; devices need a valid team.
 2. Open **`iosApp/iosApp.xcodeproj`** in Xcode (not only the `iosApp` folder).
 3. Select the **`iosApp`** scheme and an **iOS Simulator** (or device) whose OS is **≥ 17.0**.
 4. Build \& Run (**⌘R**). The first build may take a while while Gradle produces the framework.
@@ -111,11 +111,11 @@ If no simulators appear, install an iOS 17+ runtime under **Xcode → Settings �
 
 ## 📸 Screenshots
 
->
-
 !\[homescreen](https://github.com/user-attachments/assets/6ffd9097-7e8b-4487-84e3-23fc064f674f)
 !\[screenshow](https://github.com/user-attachments/assets/c065767f-32e0-4239-932a-3febe1e0818a)
 !\[position text](https://github.com/user-attachments/assets/7bea3b7c-edfd-48b5-89ea-82b9d67a7bcd)
 !\[expand and contract ](https://github.com/user-attachments/assets/3ae99172-e112-4aaf-a964-d68e654c2b9c)
 !\[screenshow](https://github.com/user-attachments/assets/bcac9118-4406-415e-8ba1-88b5b8931e34)
+
+
 
